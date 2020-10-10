@@ -1,0 +1,31 @@
+{
+  "user": {
+    "admin": true,
+    "name": "adm",
+    "email": "adm@gmail.com",
+    "password": "123",
+    "confirmPassword": "123"
+  },
+  "category": {
+    "name": "Chemistry"
+  },
+  "article": {
+    "name":"Feijao com batata",
+    "description":"Um artigo que fala sobre batata",
+    "imageUrl":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.levty.com%2Fcamil%2Fprd%2Fimagem%2Fsopa_de_feijao_com_batata_doce_e_alho_poro_1395%2Fsopa_de_feijao_com_batata_doce_e_alho_poro_1395.jpg&imgrefurl=https%3A%2F%2Fwww.camil.com.br%2Freceitas%2Fsopa_de_feijao_com_batata_doce_e_alho_poro&tbnid=0aj0cJiAZLDY6M&vet=12ahUKEwiFrsu5o6rsAhWNLLkGHUfRAP8QMygAegUIARCwAQ..i&docid=WPHjMft7lFLV6M&w=2560&h=1280&q=feijao%20com%20batata&ved=2ahUKEwiFrsu5o6rsAhWNLLkGHUfRAP8QMygAegUIARCwAQ",
+    "content":"Feijao qqqqqq",
+    "userId":1,
+    "categoryId":1
+  },
+  "genero": {
+    "nome": "ciencia"
+  },
+  "livro": {
+    "nome":"Feijao com batata",
+    "descricao":"Um artigo que fala sobre batata",
+    "imageUrl":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.levty.com%2Fcamil%2Fprd%2Fimagem%2Fsopa_de_feijao_com_batata_doce_e_alho_poro_1395%2Fsopa_de_feijao_com_batata_doce_e_alho_poro_1395.jpg&imgrefurl=https%3A%2F%2Fwww.camil.com.br%2Freceitas%2Fsopa_de_feijao_com_batata_doce_e_alho_poro&tbnid=0aj0cJiAZLDY6M&vet=12ahUKEwiFrsu5o6rsAhWNLLkGHUfRAP8QMygAegUIARCwAQ..i&docid=WPHjMft7lFLV6M&w=2560&h=1280&q=feijao%20com%20batata&ved=2ahUKEwiFrsu5o6rsAhWNLLkGHUfRAP8QMygAegUIARCwAQ",
+    "conteudo":"Feijao qqqqqq",
+    "usuariold":1,
+    "generold":1
+  }
+}
